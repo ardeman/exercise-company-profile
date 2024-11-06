@@ -1,0 +1,278 @@
+{
+  "//navigation": "目前未實作浮動的選單數量，若有需求可再調整",
+  "navigation": {
+    "menu": "MENU",
+    "about": "ABOUT WE",
+    "product": "PRODUCT",
+    "service": "SERVICE",
+    "news": "NEWS",
+    "contact": "CONTACT"
+  },
+  "//slogan": "message popup after clicked enter site",
+  "slogan": ["ELEVATE", "YOUR BRAND EXPERIENCE", "WITH WORLD ENTERTAINMENT"],
+  "header": {
+    "//title": "須至少一項；不同語系，數量應相同",
+    "title": ["ELEVATE YOUR BRAND EXPERIENCE WITH WORLD ENTERTAINMENT"],
+    "subtitle": "PAGCOR, MGA, GLI INTERNATIONAL FAIRNESS MECHANISM CERTIFICATE",
+    "sign": ""
+  },
+  "outline": {
+    "//title": "須至少一項，每項代表一行字；不同語系，數量應相同；因自適應，避免字行過長",
+    "title": [
+      "EVERYTHING START FROM OUR ASIA",
+      "FIRST WORLD CLASS LIVE STUDIO COMPLEX",
+      "AND OUR KNOWHOW IN DETAILS"
+    ],
+    "subtitle": "WORLD ENTERTAINMENT WAS FOUNDED IN 2020",
+    "//content": "是二維陣列，代表段落與其字行；不同語系，數量應相同；須至少一個段落，每個段落須至少一行字；因自適應，避免字行過長",
+    "content": [
+      [
+        "ABOUT WORLD ENTERTAINMENT:",
+        "World Entertainment (WE) is a premier B2B solution provider, boasting the industry's largest and most advanced studio complex that empowers casino operators to achieve unprecedented success. Our state-of-the-art facility, spanning over 12,000 square meters, offers an unparalleled array of exclusive services, from branded casino decor to private live shows and tailor-made game events, ensuring that any casino operator can dominate the future market."
+      ],
+      [
+        "MISSION:",
+        "We are relentless in our pursuit of revolutionizing the gaming industry in the live gaming sector. Our goal is to provide our business partners with access to the most revolutionary technology and unique gaming content, as well as a wide range of elite branded services."
+      ],
+      [
+        "VISION:",
+        "With our revolutionary entertainment philosophy and approach, we are determined to become the go-to B2B solution provider in the casino industry, serving both online and brick-and-mortar operators, listed and private enterprises, and regional and worldwide integrated resorts. Our ultimate goal is to take World Entertainment public and attract fans and talent who share our vision of creating a truly game-changing entertainment future."
+      ]
+    ]
+  },
+  "product": {
+    "gameList": {
+      "gOFBaccarat": "GOF Baccarat",
+      "gOFRoulette": "GOF Roulette",
+      "traditionalBaccarat": "Traditional Baccarat",
+      "speedBaccarat": "Speed Baccarat",
+      "squeezeBaccarat": "Squeeze Baccarat",
+      "themedBaccarat": "Themed Baccarat",
+      "dragonTiger": "Dragon Tiger",
+      "speedDragonTiger": "Speed Dragon Tiger",
+      "sicBo": "Sic Bo ",
+      "roulette": "Roulette",
+      "mahjongLuckyWheel": "Mahjong Lucky Wheel ",
+      "bullBull": "Bull Bull",
+      "winThreeCards": "Win Three Cards",
+      "fanTan": "Fan Tan",
+      "lotto": "Lotto",
+      "pk10": "PK10"
+    },
+    "gameChoose": "Games Available:",
+    "live": {
+      "title": "LIVE GAME",
+      "content": "Established in 2018, The largest Live Studio in Asia. Spanning over 12,000 square metres with professional TV studio setup equipment and more than 120 tables. World Entertainment is committed to obtaining numerous gaming licenses to reinforce the credibility of their business and provide partners and players with a heightened level of confidence through meticulous license audits. Currently, World Entertainment is licensed by both the Philippines PAGCOR and Malta Gaming Authority.",
+      "img": "image_1_en.png"
+    },
+    "sport": {
+      "title": "SPORTSBOOK",
+      "content": "Get in on the action like never before with our sportsbook featuring live streams of mainstream matches and localized streamer commentary for an adrenaline-fueled experience that'll have you on the edge of your seat.",
+      "list": {
+        "bet": "Inplay with Live Game Broadcast",
+        "diverse": "Wide Variety of Odds and Bet Types",
+        "data": "Real-time Data Analysis",
+        "anchor": "Live Streamer",
+        "customized": "Filter System to View Your Selected Leagues",
+        "globalization": "Multilingual Support",
+        "humanize": "Simplified Interface"
+      }
+    },
+    "bc": {
+      "title": "BLOCKCHAIN",
+      "content": "Experience the ultimate in fairness and transparency with our provably fair online casino table games, where every hand dealt and every spin of the wheel is backed by advanced blockchain technology for complete peace of mind.",
+      "img": "image_3_en.png"
+    },
+    "lotto": {
+      "title": "LOTTERY GAMES",
+      "content": "Step away from the mundane lottery experience and elevate your players' excitement by offering a physical lottery machine with a live drawing process. Our innovative lottery drawing method is complemented by cross-selling solutions that help our partners maximize player value.",
+      "img": "image_4_en.png"
+    }
+  },
+  "service": {
+    "content": [
+      [
+        "SERVICES:",
+        "Unlike the standard solution providers in traditional market, World Entertainment has innovated the exclusive streaming solution that offers casino operators the unlimited opportunities not only for branding but also complete and immersive gaming experience in depth through various customization execises and approaches. "
+      ],
+      [
+        "World Entertainment also offers over 120 live gaming tables and 32 different gaming styles and types, as well as our most powerful interface which allows seamlessly cross-promote casino operator different products within its own retail network."
+      ],
+      [
+        "After all, World Entertainment is seeking a unique and unparallel experience that deepens the connection between our customers and their end-users then elevates their brand influence in the industry to the successful path"
+      ],
+      [
+        "Last but not lease, our global facing solution helps the casino operators to unlock the universal market in just one click."
+      ]
+    ]
+  },
+  "news": {
+    "//articles": "須至少一項，每項代表一篇文章，文章對應的圖片存放於 `src/assets/images/articles`；不同語系，數量應相同",
+    "articles": [
+      {
+        "date": "03.27",
+        "year": "2023",
+        "summary": "World Entertainment (WE) Mobile Version Upgrade",
+        "href": "mobileapp2023",
+        "image": "20230327.jpg"
+      },
+      {
+        "date": "02.10",
+        "year": "2023",
+        "summary": "World Entertainment Takes First Step on International Stage at London ICE Event",
+        "href": "ice20230210",
+        "image": "20230210.jpg"
+      },
+      {
+        "date": "02.07",
+        "year": "2023",
+        "summary": "World Entertainment (WE), the leading B2B solution provider for the casino industry, is excited to announce its participation in the upcoming ICE London event taking place on 7th - 9th February 2023.",
+        "href": "ice2023",
+        "image": "20230207.jpg"
+      },
+      {
+        "date": "12.11",
+        "year": "2022",
+        "summary": "WE World Entertainment's exclusive title, world boxing champion Manny Pacquiao VS Korea Bruce Lee DK YOO South Korea's first exhibition match",
+        "href": "boxing",
+        "image": "20221211.jpg"
+      }
+    ],
+    "//pages": "若 news.articles.href 非 http 開頭，將對應以下的頁面；content 支援基本的 Markdown 語法",
+    "pages": {
+      "mobileapp2023": {
+        "date": "2023.03.27",
+        "title": "World Entertainment (WE) Mobile Version Upgrade",
+        "image": "20230327.jpg",
+        "content": [
+          "World Entertainment's Vice President of Business and Strategy, Robert, announced today that the company has upgraded its mobile user interface, further enhancing the gaming experience for its players. With the new interface, players can easily switch between games and find their favorites with just a few clicks. The upgrade is part of World Entertainment's ongoing commitment to providing the best possible gaming experience for its customers.",
+          "&quot;We understand the importance of convenience and ease of use for our players, and this upgrade reflects our commitment to providing the best possible gaming experience,&quot; said Robert.",
+          "The new mobile user interface is just one of many innovations that World Entertainment has introduced to the market. As one of the leading live casino providers in the industry, the company is constantly pushing the boundaries of what's possible and delivering new and exciting gaming experiences to its customers.",
+          "<b>About World Entertainment:</b>\\nWorld Entertainment is a leading provider of live casino solutions, offering a wide range of games and services to players around the world. With a state-of-the-art studio and advanced technology, World Entertainment is committed to delivering an authentic and exciting gaming experience.",
+          "For more information, please contact: \\nmarketing{'@'}worldent.com"
+        ]
+      },
+      "ice20230210": {
+        "date": "2023.02.10",
+        "title": "World Entertainment Takes First Step on International Stage at London ICE Event",
+        "image": "20230210.jpg",
+        "content": [
+          "World Entertainment, Asia's largest live casino provider, has successfully participated in the London ICE event and taken its first step on the international stage. The event, which was held on February 1-3, 2022, provided a great opportunity for World Entertainment to showcase its state-of-the-art studio and advanced technology to a global audience.",
+          "During the event, World Entertainment had the chance to connect with multiple giant brands and build strong relationships with them. This will help World Entertainment to expand its international presence and bring its ultimate gaming experience to more players around the world.",
+          "&quot;We are thrilled with the success of our participation in the London ICE event,&quot; said a spokesperson for World Entertainment. &quot;This event has provided us with a fantastic opportunity to showcase our expertise and innovative solutions to a global audience. We are excited to have taken our first step on the international stage and are looking forward to expanding our reach further in the future.&quot;",
+          "World Entertainment's live casino platform offers a wide range of games, including baccarat, blackjack, and roulette, as well as its branded table option and wallet solutions. The company's integrated API solution also enables a one-time integration to access all of its games.",
+          "For more information about World Entertainment and its solutions, please visit our website or contact us at marketing{'@'}worldent.com.",
+          "<b>About World Entertainment:</b>\\nWorld Entertainment is Asia's largest live casino provider, dedicated to bringing players the ultimate gaming experience. With its state-of-the-art studio and advanced technology, the company provides an authentic and exciting casino experience to players around the world.",
+          "For more information, please contact: \\nmarketing{'@'}worldent.com"
+        ]
+      },
+      "ice2023": {
+        "date": "2023.02.07",
+        "title": "World Entertainment (WE), the leading B2B solution provider for the casino industry, is excited to announce its participation in the upcoming ICE London event taking place on 7th - 9th February 2023.",
+        "image": "20230207.jpg",
+        "content": [
+          "World Entertainment (WE), the leading B2B solution provider for the casino industry, is excited to announce its participation in the upcoming ICE London event taking place on 7th - 9th February 2023. Visitors to booth S10-210 will have the opportunity to experience the company's state-of-the-art billion-dollar studio complex, spanning 12,000 square meters.",
+          "&quot;We are thrilled to participate in the ICE London event and showcase our cutting-edge technology and innovative solutions,&quot; said Robert, Vice President of Business and Strategy at World Entertainment. &quot;Our studio offers a truly immersive and engaging experience for players, and we invite key decision makers of casino operators to visit our booth and schedule an appointment to learn more about our unique services.&quot;",
+          "World Entertainment's mission is to provide business partners with access to the latest ground-breaking technology and unique gaming contents, as well as a wide range of branded services. The company's vision is to become the most favored B2B solution provider in the casino industry, and to float World Entertainment to the public market.",
+          "Unlike standard solution providers, World Entertainment offers an exclusive streaming solution that allows for unlimited opportunities for branding and a complete and immersive gaming experience through customization exercises and approaches. The company also offers over 120 live gaming tables and 32 different gaming styles and types, as well as a powerful interface that allows for seamless cross-promotion of casino operator's products within its own retail network.",
+          "&quot;Our goal is to deepen the connection between our customers and their end-users, and to elevate their brand influence in the industry to the successful path,&quot; Robert added. &quot;We also offer a global facing solution that helps casino operators unlock the universal market with just one click.&quot;",
+          "For more information or to schedule an appointment at the World Entertainment booth during the ICE London event, please contact marketing{'@'}Worldent.com.",
+          "<b>About World Entertainment:</b>\\nWorld Entertainment is a leading B2B solution provider for the casino industry, committed to providing business partners with access to the latest ground-breaking technology and unique gaming contents, as well as a wide range of branded services. With a state-of-the-art billion-dollar studio complex spanning 12,000 square meters, the company offers a truly immersive and engaging experience for players.",
+          "For more information, please contact: \\nmarketing{'@'}worldent.com"
+        ]
+      },
+      "boxing": {
+        "date": "2022.12.11",
+        "title": "World Entertainment title sponsor for world boxing champion Manny Pacquiao VS Korean Bruce Lee DK YOO South Korea's first exhibition match",
+        "image": "20221211.jpg",
+        "content": [
+          "World champion Pacquiao's 2022 comeback first exhibition match is about to debut in Seoul, South Korea on December 11",
+          "World Entertainment was a title sponsor this competition and designed the World Boxing room for this boxing event.",
+          "When you play the WE live game, you can challenge the number of exciting winning streaks.",
+          "【Philippine Legendary Boxer-Pacquiao】【Korea Bruce Lee-DK YOO】【Fight K】"
+        ]
+      }
+    }
+  },
+  "order": {
+    "//title": "須至少一項，每項代表一行字，建議兩項；不同語系，數量應相同；因自適應，避免字行過長",
+    "title": ["WORLD ENTERTAINMENT", "CREATE MASTERPIECE OF LIVE"],
+    "//subtitle": "須至少一項，每項代表一行字；不同語系，數量應相同；因自適應，避免字行過長",
+    "subtitle": [
+      "Connect with us to let our team of professionals",
+      "to upgrade your players' gaming experience"
+    ],
+    "link": {
+      "top": [{ "title": "Telegram", "href": "https://t.me/we_biz_admin" }],
+      "bottom": [
+        {
+          "title": "YouTube",
+          "href": "https://www.youtube.com/{'@'}World-Entertainment"
+        },
+        {
+          "title": "Instagram",
+          "href": "https://www.instagram.com/accounts/login/?next=/worldent.official/"
+        },
+        {
+          "title": "LinkedIn",
+          "href": "https://www.linkedin.com/company/world-entertainment-igaming/"
+        }
+      ],
+      "social": [
+        {
+          "icon": "email.svg",
+          "title": "Sales Email",
+          "href": "mailto:sales{'@'}worldent.com"
+        },
+        {
+          "icon": "email.svg",
+          "title": "Partnership Email",
+          "href": "mailto:marketing{'@'}worldent.com"
+        },
+        {
+          "icon": "telegram.svg",
+          "title": "Sales Telegram",
+          "href": "https://t.me/we_biz_admin"
+        },
+        {
+          "icon": "whatsapp.svg",
+          "title": "Sales WhatsApp",
+          "href": "https://wa.me/+639693126299"
+        }
+      ]
+    }
+  },
+  "marquee": {
+    "//bottom": "須至少一項；不同語系，數量應相同",
+    "bottom": [
+      "FISHING ARCADE",
+      "SPORTSBOOK",
+      "SLOT",
+      "LOTTORY",
+      "BLOCKCHAIN",
+      "LIVE DEALER",
+      "ASIA PALACE",
+      "MACAU PALACE",
+      "THAI PALACE",
+      "GAME SHOW",
+      "CHINA RED",
+      "VICTORIA S"
+    ],
+    "ring": "LIVE BLOCKCHAIN LOTTORY FISHING SPORT SLOT"
+  },
+  "button": {
+    "enter": "ENTER",
+    "fullMovie": {
+      "text": "▶",
+      "textLeft": "-10",
+      "border": "WORLD ENTERTAINMENT    WORLD ENTERTAINMENT",
+      "borderSize": "8.5"
+    },
+    "sound": "Music on and off",
+    "more": "View",
+    "load": "More",
+    "close": "CLOSE",
+    "back": "BACK"
+  },
+  "rights": "COPYRIGHT © WORLD ENTERTAINMENT 2023"
+}
