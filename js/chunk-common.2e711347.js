@@ -1046,8 +1046,8 @@
         qe = Ve,
         $e = qe;
       const [enData, zhData] = await Promise.all([
-        fetch('/locales/en.json').then(response => response.json()),
-        fetch('/locales/zh.json').then(response => response.json())
+        fetch('./locales/en.json').then(response => response.json()),
+        fetch('./locales/zh.json').then(response => response.json())
       ]);
       var Ze = "en";
       const Ge = (0, c.o)({
