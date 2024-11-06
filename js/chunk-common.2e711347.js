@@ -2957,7 +2957,7 @@
                             Hn,
                             {
                               title: e.$t("button.back"),
-                              href: "/news",
+                              href: "./news",
                               routerLink: !0,
                             },
                             null,
